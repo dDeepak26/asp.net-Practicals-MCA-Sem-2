@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|d:\\deepak\\asp.net\\farmer_table_connection_oriented_architecture\\farmer_table_connection_oriented_architecture\\farmer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|solutionrelative:farmer_table_connection_oriented_architecture\\farmer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|d:\\deepak\\asp.net\\farmer_table_connection_oriented_architecture\\farmer_table_connection_oriented_architecture\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|solutionrelative:farmer_table_connection_oriented_architecture\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|d:\\deepak\\asp.net\\farmer_table_connection_oriented_architecture\\farmer_table_connection_oriented_architecture\\farmer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6FA517-01B2-47A9-862B-61C4EE5D41BE}|Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture.csproj|solutionrelative:farmer_table_connection_oriented_architecture\\farmer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Farmer.aspx.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx.cs",
+              "RelativeDocumentMoniker": "Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx.cs",
+              "RelativeToolTip": "Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Web.config",
+              "RelativeDocumentMoniker": "Farmer_Table_Connection_Oriented_Architecture\\Web.config",
+              "ToolTip": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Web.config",
+              "RelativeToolTip": "Farmer_Table_Connection_Oriented_Architecture\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T15:38:24.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Farmer.aspx",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx",
+              "RelativeDocumentMoniker": "Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx",
+              "ToolTip": "D:\\Deepak\\asp.net\\Farmer_Table_Connection_Oriented_Architecture\\Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx",
+              "RelativeToolTip": "Farmer_Table_Connection_Oriented_Architecture\\Farmer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-19T15:31:27.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

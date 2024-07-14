@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorService", "DoctorService\DoctorService.csproj", "{03342152-256C-4334-907A-2D026AA0F201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorWebClient", "DoctorWebClient\DoctorWebClient.csproj", "{350121CE-5A94-41A7-959E-459C124FDE9C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{03342152-256C-4334-907A-2D026AA0F201} = {03342152-256C-4334-907A-2D026AA0F201}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03342152-256C-4334-907A-2D026AA0F201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03342152-256C-4334-907A-2D026AA0F201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03342152-256C-4334-907A-2D026AA0F201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03342152-256C-4334-907A-2D026AA0F201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350121CE-5A94-41A7-959E-459C124FDE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350121CE-5A94-41A7-959E-459C124FDE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350121CE-5A94-41A7-959E-459C124FDE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350121CE-5A94-41A7-959E-459C124FDE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F59C1F0-3924-464D-895C-C4EE189157FE}
+	EndGlobalSection
+EndGlobal

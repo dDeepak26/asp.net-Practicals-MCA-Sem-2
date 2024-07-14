@@ -1,0 +1,7 @@
+D:\Deepak\asp.net\DoctorService\DoctorService\bin\DoctorService.dll.config
+D:\Deepak\asp.net\DoctorService\DoctorService\bin\DoctorService.dll
+D:\Deepak\asp.net\DoctorService\DoctorService\bin\DoctorService.pdb
+D:\Deepak\asp.net\DoctorService\DoctorService\obj\Debug\DoctorService.csproj.AssemblyReference.cache
+D:\Deepak\asp.net\DoctorService\DoctorService\obj\Debug\DoctorService.csproj.CoreCompileInputs.cache
+D:\Deepak\asp.net\DoctorService\DoctorService\obj\Debug\DoctorService.dll
+D:\Deepak\asp.net\DoctorService\DoctorService\obj\Debug\DoctorService.pdb

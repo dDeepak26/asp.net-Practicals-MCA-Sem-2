@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Calculator1">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="firstvalue" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="secondvalue" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="operation" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Calculator1Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Calculator1Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Calculator1SoapIn">
+    <wsdl:part name="parameters" element="tns:Calculator1" />
+  </wsdl:message>
+  <wsdl:message name="Calculator1SoapOut">
+    <wsdl:part name="parameters" element="tns:Calculator1Response" />
+  </wsdl:message>
+  <wsdl:portType name="calculatorSoap">
+    <wsdl:operation name="Calculator1">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Calculator Application and Parameters</wsdl:documentation>
+      <wsdl:input message="tns:Calculator1SoapIn" />
+      <wsdl:output message="tns:Calculator1SoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="calculatorSoap" type="tns:calculatorSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Calculator1">
+      <soap:operation soapAction="http://tempuri.org/Calculator1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="calculatorSoap12" type="tns:calculatorSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Calculator1">
+      <soap12:operation soapAction="http://tempuri.org/Calculator1" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="calculator">
+    <wsdl:port name="calculatorSoap" binding="tns:calculatorSoap">
+      <soap:address location="https://localhost:44340/Calculator.asmx" />
+    </wsdl:port>
+    <wsdl:port name="calculatorSoap12" binding="tns:calculatorSoap12">
+      <soap12:address location="https://localhost:44340/Calculator.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Parctical_17_Produce_Consume_WCF_Service.StudentService" CodeBehind="StudentService.svc.cs" %>

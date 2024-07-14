@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3FAD78-5D9F-45CE-A1F1-9B2B918E8BE8}|CalculatorApplication\\CalculatorApplication.csproj|D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\calculatorapplication\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E3FAD78-5D9F-45CE-A1F1-9B2B918E8BE8}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3FAD78-5D9F-45CE-A1F1-9B2B918E8BE8}|CalculatorApplication\\CalculatorApplication.csproj|d:\\deepak\\asp.net\\practical_16_consuming_web_services\\calculatorapplication\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3FAD78-5D9F-45CE-A1F1-9B2B918E8BE8}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607F96C4-F040-4BE1-8293-94BBD1BB9716}|Practical_16_Consuming_Web_Services\\Practical_16_Consuming_Web_Services.csproj|D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\practical_16_consuming_web_services\\calculator.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607F96C4-F040-4BE1-8293-94BBD1BB9716}|Practical_16_Consuming_Web_Services\\Practical_16_Consuming_Web_Services.csproj|solutionrelative:practical_16_consuming_web_services\\calculator.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\CalculatorApplication\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\CalculatorApplication\\WebForm1.aspx.cs",
+              "RelativeToolTip": "CalculatorApplication\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:02:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\CalculatorApplication\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "CalculatorApplication\\WebForm1.aspx",
+              "ToolTip": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\CalculatorApplication\\WebForm1.aspx",
+              "RelativeToolTip": "CalculatorApplication\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T10:02:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.asmx.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\Practical_16_Consuming_Web_Services\\Calculator.asmx.cs",
+              "RelativeDocumentMoniker": "Practical_16_Consuming_Web_Services\\Calculator.asmx.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Practical_16_Consuming_Web_Services\\Practical_16_Consuming_Web_Services\\Calculator.asmx.cs",
+              "RelativeToolTip": "Practical_16_Consuming_Web_Services\\Calculator.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:56:34.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

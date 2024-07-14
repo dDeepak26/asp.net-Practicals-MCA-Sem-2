@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_student_details\\display_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|solutionrelative:display_student_details\\display_student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|d:\\deepak\\asp.net\\parctical_17_produce_consume_wcf_service\\display_student_details\\display_student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|solutionrelative:display_student_details\\display_student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|d:\\deepak\\asp.net\\parctical_17_produce_consume_wcf_service\\display_student_details\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77F52529-6A28-469D-B9FF-58AEBA5B52D5}|display_Student_Details\\display_Student_Details.csproj|solutionrelative:display_student_details\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D174417-8AFD-40B8-8F13-1A99E511617F}|Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service.csproj|D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\parctical_17_produce_consume_wcf_service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D174417-8AFD-40B8-8F13-1A99E511617F}|Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service.csproj|solutionrelative:parctical_17_produce_consume_wcf_service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D174417-8AFD-40B8-8F13-1A99E511617F}|Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service.csproj|D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\parctical_17_produce_consume_wcf_service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D174417-8AFD-40B8-8F13-1A99E511617F}|Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service.csproj|solutionrelative:parctical_17_produce_consume_wcf_service\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\Web.config",
+              "RelativeDocumentMoniker": "display_Student_Details\\Web.config",
+              "ToolTip": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\Web.config",
+              "RelativeToolTip": "display_Student_Details\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T14:55:42.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "display_Student.aspx.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\display_Student.aspx.cs",
+              "RelativeDocumentMoniker": "display_Student_Details\\display_Student.aspx.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\display_Student.aspx.cs",
+              "RelativeToolTip": "display_Student_Details\\display_Student.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display_Student.aspx",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\display_Student.aspx",
+              "RelativeDocumentMoniker": "display_Student_Details\\display_Student.aspx",
+              "ToolTip": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\display_Student_Details\\display_Student.aspx",
+              "RelativeToolTip": "display_Student_Details\\display_Student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T11:41:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.svc.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service\\StudentService.svc.cs",
+              "RelativeDocumentMoniker": "Parctical_17_Produce_Consume_WCF_Service\\StudentService.svc.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service\\StudentService.svc.cs",
+              "RelativeToolTip": "Parctical_17_Produce_Consume_WCF_Service\\StudentService.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:35:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Parctical_17_Produce_Consume_WCF_Service\\IStudentService.cs",
+              "ToolTip": "D:\\Deepak\\asp.net\\Parctical_17_Produce_Consume_WCF_Service\\Parctical_17_Produce_Consume_WCF_Service\\IStudentService.cs",
+              "RelativeToolTip": "Parctical_17_Produce_Consume_WCF_Service\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:35:35.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

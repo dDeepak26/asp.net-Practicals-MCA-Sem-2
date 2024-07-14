@@ -1,0 +1,28 @@
+﻿@model List<friend>
+<h1>LINQ Practical</h1>
+<h3>My Friends List</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Middle Name</th>
+            <th>Last Name</th>
+            <th>Roll No</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var data in Model)
+        {
+            <tr>
+                <td>@data.Id</td>
+                <td>@data.Name</td>
+                <td>@data.Middlename</td>
+                <td>@data.Lastname</td>
+                <td>@data.Rollno</td>
+                <td>@data.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>
